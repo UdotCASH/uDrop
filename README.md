@@ -1,2 +1,2 @@
 # uDrop
-command line dApp for dropping UCASH en mass
+nodejs dApp for dropping UCASH en mass
